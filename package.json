@@ -22,12 +22,12 @@
   ],
   "dependencies": {
     "@noble/ed25519": "^1.6.0",
-    "base58-universal": "github:digitalbazaar/base58-universal#fix-esm",
-    "base64url-universal": "github:digitalbazaar/base64url-universal#convert-to-module",
-    "crypto-ld": "github:digitalbazaar/crypto-ld#convert-to-module"
+    "base58-universal": "github:lemoustachiste/base58-universal#fix-esm",
+    "base64url-universal": "github:lemoustachiste/base64url-universal#convert-to-module",
+    "crypto-ld": "github:lemoustachiste/crypto-ld#convert-to-module"
   },
   "devDependencies": {
-    "@digitalbazaar/ed25519-verification-key-2018": "github:digitalbazaar/ed25519-verification-key-2018#convert-to-module",
+    "@digitalbazaar/ed25519-verification-key-2018": "github:lemoustachiste/ed25519-verification-key-2018#convert-to-module",
     "@stablelib/ed25519": "^1.0.2",
     "c8": "^7.11.2",
     "chai": "^4.3.6",
